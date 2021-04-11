@@ -1,5 +1,4 @@
 #Furkan AKGUN
-#20660829834
 import sys
 
 
